@@ -19,7 +19,7 @@ A lightweight, plug-and-play JavaScript widget that adds an interactive floating
 **Option 2: Embed in your GitHub/WebSim HTML Projects**
 Add the script just before your closing `</body>` tag:
 \`\`\`html
-<script src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/floating-ai.js"></script>
+<script src="https://github.com/vallison234-dotcom/automatic-dollop/blob/main/floating-ai.js"></script>
 \`\`\`
 
 ---
