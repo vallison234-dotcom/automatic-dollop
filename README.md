@@ -36,7 +36,7 @@ If you try to click this bookmark shortcut script into the website on certain we
 
 This happens because of a web security standard called **Content Security Policy (CSP)**. 
 * **What is CSP?** It is a security layer that websites use to prevent hackers from injecting malicious scripts (Cross-Site Scripting or XSS). 
-* **Why it blocks the ball:** High-security websites tell your browser, *"Do not run any JavaScript that doesn't come directly from our own servers."* When you paste the floating ball code into the console, the browser blocks it to follow the website's safety rules.
+* **Why it blocks the ball:** High-security websites tell your browser, *"Do not run any JavaScript that doesn't come directly from our own servers."* When you click the floating ball code bookmark into the website, the browser blocks it to follow the website's safety rules.
 
 **Where does it work best?**
 The script works perfectly on your own HTML projects, local development environments, WebSim sandboxes, and standard websites with relaxed CSP rules. 
