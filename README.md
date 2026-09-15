@@ -32,7 +32,7 @@ Out of the box, the script acts as a **UI shell with simulated logic**. It uses 
 However, the interface is completely ready for a **real AI brain**. You can easily replace the placeholder logic inside the `processCommand()` function with a `fetch()` request to connect it to an actual AI model (like Google Gemini, Anthropic Claude, or OpenAI). We will be adding official support for these models soon!
 
 ### Why isn't the floating ball showing up on some websites? (Why did it get blocked?)
-If you try to paste this script into the console on certain websites (like GitHub, Twitter, or banking sites), you might see a red error in the console, and the ball won't appear. 
+If you try to click this bookmark shortcut script into the website on certain websites (like GitHub, Twitter, or banking sites), you might see a red error in the console, and the ball won't appear. 
 
 This happens because of a web security standard called **Content Security Policy (CSP)**. 
 * **What is CSP?** It is a security layer that websites use to prevent hackers from injecting malicious scripts (Cross-Site Scripting or XSS). 
